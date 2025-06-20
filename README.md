@@ -1,6 +1,6 @@
 ## Welcome
 
-Thank you for your interest in my Python repository (LSPE_CC) accompanying my paper Tamama et al., 2025, submitted to JGR: Planets. Please find brief explanations of the contents of this repository. Please also note that the directories containing the codes are listed in the numerical order in which they should be run. 
+Thank you for your interest in my Python repository (LSPE_CC) accompanying my paper Tamama et al., 2025, submitted to *JGR: Planets*. Please find brief explanations of the contents of this repository. Please also note that the directories containing the codes are listed in the numerical order in which they should be run. 
 
 ### LSPE_CC/
 
